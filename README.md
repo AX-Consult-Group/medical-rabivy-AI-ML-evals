@@ -70,7 +70,7 @@ This multi-metric harness provides a comprehensive view of both predictive power
 
 The full rendered report is available via **GitHub Pages**: 
 
-https://ax-consult-group.github.io/medical-Rabivy-AI-ML-Evals/ 
+https://ax-consult-group.github.io/Medical-Rabivy-robustness-evals/
 
 ---
 
